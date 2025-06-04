@@ -42,7 +42,7 @@ I'm Abderrahmane ELAMRATI, a homelab enthusiast, DevOps tinkerer, and automation
   <tr>
     <td width="120px">
       <a href="https://www.credly.com/earner/earned/badge/7059e60a-59f4-4321-9a28-934be5b8de73">
-        <img src="assets/certs/github-foundation.png" width="80" />
+        <img src="assets/certs/github-foundations.svg" width="80" />
       </a>
     </td>
     <td>
