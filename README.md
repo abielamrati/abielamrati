@@ -18,6 +18,12 @@ I'm Abderrahmane ELAMRATI, a homelab enthusiast, DevOps tinkerer, and automation
 - Local DNS and ad-blocking with AdGuard Home
 - Infrastructure monitoring with Prometheus, Telegraf & Grafana
 
+## 🧾 Certifications
+
+- ✅ [GitHub Foundations Certification](https://www.credly.com/earner/earned/badge/7059e60a-59f4-4321-9a28-934be5b8de73) — *Issued June 2025*
+- 🛠️ (Upcoming) GitHub Actions Certification
+- ☁️ (Planning) Terraform Associate – HashiCorp
+- 🧪 (Planning) Docker Certified Associate
 ---
 
 _Always tinkering, always learning._
