@@ -20,13 +20,71 @@ I'm Abderrahmane ELAMRATI, a homelab enthusiast, DevOps tinkerer, and automation
 
 ## 🧾 Certifications
 
-- 🛠️ (Upcoming) GitHub Actions Certification
-- ☁️ (Planning) Terraform Associate – HashiCorp
-- 🧪 (Planning) Docker Certified Associate
-- ✅ [GitHub Foundations Certification](https://www.credly.com/earner/earned/badge/7059e60a-59f4-4321-9a28-934be5b8de73) — *Issued June 2025*
-- ✅ [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/api/credentials/share/en-gb/abielamrati/AEA7A0F31D7D6F95?sharingId=95C67E1D200767C3) — *Issued Apr, 2025*
-- ✅ [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-gb/abielamrati/E3D06302BB7B3F62?sharingId=95C67E1D200767C3) — *Issued Mar, 2025*
-- ✅ [DevOps Foundation® Certification](https://www.devopsinstitute.com/certifications/devops-foundation/) — *Issued Mar, 2022*
+<table>
+  <tr>
+    <td>
+      <img src="assets/certs/github-actions.png" width="80" />
+    </td>
+    <td>
+      <strong>GitHub Actions Certification</strong><br/>
+      🧪 Planning
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/certs/docker.png" width="80" />
+    </td>
+    <td>
+      <strong>Docker Certified Associate</strong><br/>
+      🛠️ Upcoming
+    </td>
+  </tr>
+  <tr>
+    <td width="120px">
+      <a href="https://www.credly.com/earner/earned/badge/7059e60a-59f4-4321-9a28-934be5b8de73">
+        <img src="assets/certs/github-foundation.png" width="80" />
+      </a>
+    </td>
+    <td>
+      <strong>GitHub Foundations Certification</strong><br/>
+      Issued June 2025
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-gb/abielamrati/AEA7A0F31D7D6F95?sharingId=95C67E1D200767C3">
+        <img src="assets/certs/az104.png" width="80" />
+      </a>
+    </td>
+    <td>
+      <strong>Azure Administrator Associate (AZ-104)</strong><br/>
+      Issued April 2025
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-gb/abielamrati/E3D06302BB7B3F62?sharingId=95C67E1D200767C3">
+        <img src="assets/certs/az900.png" width="80" />
+      </a>
+    </td>
+    <td>
+      <strong>Azure Fundamentals (AZ-900)</strong><br/>
+      Issued March 2025
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.devopsinstitute.com/certifications/devops-foundation/">
+        <img src="assets/certs/devops-foundation.png" width="80" />
+      </a>
+    </td>
+    <td>
+      <strong>DevOps Foundation® Certification</strong><br/>
+      Issued March 2022
+    </td>
+  </tr>
+</table>
+
 ---
 
 _Always tinkering, always learning._
@@ -39,3 +97,5 @@ _Always tinkering, always learning._
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abderrahmane-elamrati/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
