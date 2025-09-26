@@ -23,6 +23,17 @@ I'm Abderrahmane ELAMRATI, a homelab enthusiast, DevOps tinkerer, and automation
 <table>
   <tr>
     <td>
+      <a href="https://learn.microsoft.com/api/credentials/share/en-gb/abielamrati/AEA7A0F31D7D6F95?sharingId=95C67E1D200767C3">
+        <img src="assets/certs/az104.png" width="80" />
+      </a>
+    </td>
+    <td>
+      <strong>Terraform Associate</strong><br/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
       <img src="assets/certs/github-actions.png" width="80" />
     </td>
     <td>
