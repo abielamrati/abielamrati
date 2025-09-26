@@ -47,7 +47,6 @@ I'm Abderrahmane ELAMRATI, a homelab enthusiast, DevOps tinkerer, and automation
     </td>
     <td>
       <strong>GitHub Foundations Certification</strong><br/>
-      Issued June 2025
     </td>
   </tr>
   <tr>
@@ -58,7 +57,6 @@ I'm Abderrahmane ELAMRATI, a homelab enthusiast, DevOps tinkerer, and automation
     </td>
     <td>
       <strong>Azure Administrator Associate (AZ-104)</strong><br/>
-      Issued April 2025
     </td>
   </tr>
   <tr>
@@ -69,7 +67,6 @@ I'm Abderrahmane ELAMRATI, a homelab enthusiast, DevOps tinkerer, and automation
     </td>
     <td>
       <strong>Azure Fundamentals (AZ-900)</strong><br/>
-      Issued March 2025
     </td>
   </tr>
   <tr>
@@ -80,7 +77,6 @@ I'm Abderrahmane ELAMRATI, a homelab enthusiast, DevOps tinkerer, and automation
     </td>
     <td>
       <strong>DevOps Foundation® Certification</strong><br/>
-      Issued March 2022
     </td>
   </tr>
 </table>
